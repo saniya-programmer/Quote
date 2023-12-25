@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(87, 131, 174)
+
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'EB Garamond', serif;
+    font-size: large;
+}

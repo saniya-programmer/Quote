@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    size: 3rem;
+}
+
+.motivational-pic{
+    width: 70%;
+    border: 5px solid white 
+}
+p{
+    font-size: 20px;
+}
+
+.meme{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 120px;
+    
+}
+h5{
+    color: white;
+}
+
